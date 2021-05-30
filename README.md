@@ -5,3 +5,4 @@
 - **1. Clone the Repository**
 - **2. Compile all the three files**
 - **3. Run Game.java file**
+/home/ruchi/Downloads/Brick Breaker.png
