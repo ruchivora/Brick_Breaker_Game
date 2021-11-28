@@ -1,4 +1,4 @@
-## Brick Breaker Game
+## :checkered_flag: Brick Breaker Game 
 - **The game is made using java Swing**
 
 ## Instructions To Run The Game 
