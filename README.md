@@ -3,10 +3,10 @@
 
 ## Instructions To Run The Game 
 - **1. Clone the Repository**
-- **2. Compile all the following three files**
-        - 1. Game.java
-        - 2. GamePlay.java
-        - 3. MapGenerator.java
+- **2. Compile the following three files**
+  - Game.java
+  - GamePlay.java
+  - MapGenerator.java
 - **3. Run Game.java file**
 
 
