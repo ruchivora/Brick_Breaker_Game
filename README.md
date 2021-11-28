@@ -1,7 +1,7 @@
-## :checkered_flag: Brick Breaker Game 
+## :checkered_flag:  Brick Breaker Game 
 - **The game is made using java Swing**
 
-## Instructions To Run The Game 
+## :envelope_with_arrow: Instructions To Run The Game 
 - **1. Clone the Repository**
 - **2. Compile the following three files**
   - 1. Game.java
